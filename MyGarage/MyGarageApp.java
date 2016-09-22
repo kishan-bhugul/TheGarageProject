@@ -1,3 +1,6 @@
+//Author: Kishan Bhugul
+//Version: 1.0
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
